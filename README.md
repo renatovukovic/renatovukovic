@@ -7,8 +7,8 @@ PhD candidate in Computer Science working on **large language models**, **inform
 strong empirical evaluation with real-world deployment constraints.
 
 I am particularly interested in:
-- Post-training and evaluation of large language models
 - Extracting structured representations from unstructured data
+- Post-training and evaluation of large language models
 - Robust learning under noise, uncertainty, and distribution shift
 
 ---
