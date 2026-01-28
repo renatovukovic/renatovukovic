@@ -13,7 +13,7 @@ I am particularly interested in:
 
 ---
 
-## Research
+## Selected Publications
 
 - [**Text-to-SQL Task-oriented Dialogue Ontology Construction**](https://arxiv.org/abs/2507.23358)  
   *Transactions of the ACL (TACL), 2026*  
