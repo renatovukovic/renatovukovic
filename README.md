@@ -1,8 +1,8 @@
-## Hi there 👋
-
 # Renato Vukovic
 
-PhD candidate in Computer Science working on **large language models**, **information extraction**, and
+## Hi there 👋
+
+I am a PhD candidate in Computer Science working on **large language models**, **information extraction**, and
 **structured prediction**. My work focuses on building reliable, data-driven ML systems that combine
 strong empirical evaluation with real-world deployment constraints.
 
@@ -15,18 +15,18 @@ I am particularly interested in:
 
 ## Research
 
-- **Text-to-SQL Task-oriented Dialogue Ontology Construction**  
+- [**Text-to-SQL Task-oriented Dialogue Ontology Construction**](https://arxiv.org/abs/2507.23358)  
   *Transactions of the ACL (TACL), 2026*  
   Investigates how LLMs can construct and populate structured databases through agentic
   text-to-SQL interaction.
 
-- **Post-Training Large Language Models via Reinforcement Learning from Self-Feedback**  
+- [**Post-Training Large Language Models via Reinforcement Learning from Self-Feedback**](https://arxiv.org/abs/2507.21931)  
   *Under review (ICML 2026)*  
   Proposes a method to automatically generate preference data for reinforcement learning by
   leveraging intrinsic LLM confidence in logical reasoning, improving greedy decoding performance
   and calibration without human annotation.
 
-- **Less is More: Local Intrinsic Dimensions of Contextual Language Models**  
+- [**Less is More: Local Intrinsic Dimensions of Contextual Language Models**](https://arxiv.org/abs/2506.01034)  
   *NeurIPS 2025*  
   Analyzes internal representations of language models during fine-tuning using topological features,
   showing how intrinsic dimensionality can indicate overfitting, grokking, and training exhaustion.
@@ -42,8 +42,6 @@ A full list of publications is available on my
   real-world production infrastructure.
 - Built **data-driven anomaly detection and filtering pipelines** for large-scale streaming data,
   reducing the impact of outliers by up to 50%.
-- Developed automated **post-training and evaluation pipelines** for language models, focusing on
-  robustness, calibration, and generalization.
 
 ---
 
@@ -59,6 +57,7 @@ A full list of publications is available on my
 - Large Language Models
 - Reinforcement Learning (post-training, preference optimization)
 - Structured prediction and evaluation
+- Prompt Engineering
 
 **Software Engineering**
 - Object-oriented design
